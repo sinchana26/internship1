@@ -1,0 +1,2 @@
+git  and githubs are not same
+github is a web based platform used for version control 
